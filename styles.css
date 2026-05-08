@@ -1,0 +1,92 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: azure;
+    color:rgb(31, 28, 132);
+}
+
+h1 {
+    color:rgb(12, 1, 113);
+    font-weight: 900;
+    text-align: center;
+    letter-spacing:5px;
+}
+
+p {
+    font-weight: 200;
+    line-height: 1.6;
+}
+
+div{
+font-size: 4rem;
+font-weight: 800;
+font-style: oblique;
+font-family: 'Times New Roman', Times, serif;
+text-transform: uppercase;
+}
+
+a{
+    text-decoration: none;
+}
+
+h2{
+    color:rgb(12, 1, 113);
+    font-weight: 900;
+    text-align:left;
+    letter-spacing:3px;
+}
+
+nav a {
+    color: rgb(31, 28, 132);
+    font-weight: bold;
+}
+
+.highlight {
+    background-color: rgb(200, 230, 255);
+    padding: 0.2rem;
+}
+ 
+section, article {
+    margin: 2rem auto;
+    padding: 1.5rem;
+    border: 2px solid rgb(12, 1, 113);
+    width: 80vw; 
+}
+
+
+nav {
+    background-color: rgb(220, 240, 255);
+    padding: 1rem;
+    text-align: center;
+    border-radius: 8px;
+}
+
+
+ul {
+    list-style-type: square;
+    list-style-position: inside;
+}
+
+ol {
+    list-style-type: lower-alpha;
+    list-style-position: inside;
+}
+
+
+h1, h2 {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+#cv{
+
+
+    border: 2px solid rgb(12, 1, 113);
+    width: 80vw; 
+}
+
+#aboutme {
+
+font-size: medium;
+text-align: center;
+
+
+}
